@@ -1,0 +1,15 @@
+C:\Users\CayoHenriqueKume\Source\Repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\obj\Debug\net6.0\O.C.P [Open Close Principle].csproj.AssemblyReference.cache
+C:\Users\CayoHenriqueKume\Source\Repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\obj\Debug\net6.0\O.C.P [Open Close Principle].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CayoHenriqueKume\Source\Repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\obj\Debug\net6.0\O.C.P [Open Close Principle].AssemblyInfoInputs.cache
+C:\Users\CayoHenriqueKume\Source\Repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\obj\Debug\net6.0\O.C.P [Open Close Principle].AssemblyInfo.cs
+C:\Users\CayoHenriqueKume\Source\Repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\obj\Debug\net6.0\O.C.P [Open Close Principle].csproj.CoreCompileInputs.cache
+C:\Users\CayoHenriqueKume\Source\Repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\bin\Debug\net6.0\O.C.P [Open Close Principle].exe
+C:\Users\CayoHenriqueKume\source\repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\bin\Debug\net6.0\O.C.P [Open Close Principle].deps.json
+C:\Users\CayoHenriqueKume\source\repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\bin\Debug\net6.0\O.C.P [Open Close Principle].runtimeconfig.json
+C:\Users\CayoHenriqueKume\Source\Repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\bin\Debug\net6.0\O.C.P [Open Close Principle].dll
+C:\Users\CayoHenriqueKume\Source\Repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\bin\Debug\net6.0\O.C.P [Open Close Principle].pdb
+C:\Users\CayoHenriqueKume\Source\Repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\obj\Debug\net6.0\O.C.P [Open Close Principle].dll
+C:\Users\CayoHenriqueKume\Source\Repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\obj\Debug\net6.0\refint\O.C.P [Open Close Principle].dll
+C:\Users\CayoHenriqueKume\Source\Repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\obj\Debug\net6.0\O.C.P [Open Close Principle].pdb
+C:\Users\CayoHenriqueKume\source\repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\obj\Debug\net6.0\O.C.P [Open Close Principle].genruntimeconfig.cache
+C:\Users\CayoHenriqueKume\source\repos\CayoKume\INTERMEDIATE_desing_patterns\S.O.L.I.D\O.C.P [Open Close Principle]\obj\Debug\net6.0\ref\O.C.P [Open Close Principle].dll
