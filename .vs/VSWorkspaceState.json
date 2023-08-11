@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\S.O.L.I.D",
+    "\\S.O.L.I.D\\O.C.P [Open Close Principle]"
   ],
+  "SelectedNode": "\\S.O.L.I.D\\O.C.P [Open Close Principle]\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

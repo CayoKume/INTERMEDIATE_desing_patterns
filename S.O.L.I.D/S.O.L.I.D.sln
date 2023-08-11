@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S.R.P [Single Responsibilit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "O.C.P [Open Close Principle]", "O.C.P [Open Close Principle]\O.C.P [Open Close Principle].csproj", "{2030DF35-B957-4DB8-8B7B-3CB36765FFF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L.S.P [Liskov Substitution Principle]", "L.S.P [Liskov Substitution Principle]\L.S.P [Liskov Substitution Principle].csproj", "{F2F6C068-7A24-4BAF-B654-91F5C0EA6BDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L.S.P [Liskov Substitution Principle]", "L.S.P [Liskov Substitution Principle]\L.S.P [Liskov Substitution Principle].csproj", "{F2F6C068-7A24-4BAF-B654-91F5C0EA6BDE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I.S.P [Interface Segregation Principle]", "I.S.P [Interface Segregation Principle]\I.S.P [Interface Segregation Principle].csproj", "{E368CE4C-B2D7-4934-9CD8-F54D859B22DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D.I.P [Dependency Inversion Principle]", "D.I.P [Dependency Inversion Principle]\D.I.P [Dependency Inversion Principle].csproj", "{0317D3C9-64B4-4E06-9289-697483D0E1E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{F2F6C068-7A24-4BAF-B654-91F5C0EA6BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2F6C068-7A24-4BAF-B654-91F5C0EA6BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2F6C068-7A24-4BAF-B654-91F5C0EA6BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E368CE4C-B2D7-4934-9CD8-F54D859B22DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E368CE4C-B2D7-4934-9CD8-F54D859B22DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E368CE4C-B2D7-4934-9CD8-F54D859B22DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E368CE4C-B2D7-4934-9CD8-F54D859B22DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0317D3C9-64B4-4E06-9289-697483D0E1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0317D3C9-64B4-4E06-9289-697483D0E1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0317D3C9-64B4-4E06-9289-697483D0E1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0317D3C9-64B4-4E06-9289-697483D0E1E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

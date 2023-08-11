@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CayoHenriqueKume\\Source\\Repos\\CayoKume\\INTERMEDIATE_desing_patterns\\S.O.L.I.D\\L.S.P [Liskov Substitution Principle]\\L.S.P [Liskov Substitution Principle].csproj": {}
+    "C:\\Users\\CayoHenriqueKume\\source\\repos\\CayoKume\\INTERMEDIATE_desing_patterns\\S.O.L.I.D\\L.S.P [Liskov Substitution Principle]\\L.S.P [Liskov Substitution Principle].csproj": {}
   },
   "projects": {
-    "C:\\Users\\CayoHenriqueKume\\Source\\Repos\\CayoKume\\INTERMEDIATE_desing_patterns\\S.O.L.I.D\\L.S.P [Liskov Substitution Principle]\\L.S.P [Liskov Substitution Principle].csproj": {
+    "C:\\Users\\CayoHenriqueKume\\source\\repos\\CayoKume\\INTERMEDIATE_desing_patterns\\S.O.L.I.D\\L.S.P [Liskov Substitution Principle]\\L.S.P [Liskov Substitution Principle].csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CayoHenriqueKume\\Source\\Repos\\CayoKume\\INTERMEDIATE_desing_patterns\\S.O.L.I.D\\L.S.P [Liskov Substitution Principle]\\L.S.P [Liskov Substitution Principle].csproj",
+        "projectUniqueName": "C:\\Users\\CayoHenriqueKume\\source\\repos\\CayoKume\\INTERMEDIATE_desing_patterns\\S.O.L.I.D\\L.S.P [Liskov Substitution Principle]\\L.S.P [Liskov Substitution Principle].csproj",
         "projectName": "L.S.P [Liskov Substitution Principle]",
-        "projectPath": "C:\\Users\\CayoHenriqueKume\\Source\\Repos\\CayoKume\\INTERMEDIATE_desing_patterns\\S.O.L.I.D\\L.S.P [Liskov Substitution Principle]\\L.S.P [Liskov Substitution Principle].csproj",
+        "projectPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\CayoKume\\INTERMEDIATE_desing_patterns\\S.O.L.I.D\\L.S.P [Liskov Substitution Principle]\\L.S.P [Liskov Substitution Principle].csproj",
         "packagesPath": "C:\\Users\\CayoHenriqueKume\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CayoHenriqueKume\\Source\\Repos\\CayoKume\\INTERMEDIATE_desing_patterns\\S.O.L.I.D\\L.S.P [Liskov Substitution Principle]\\obj\\",
+        "outputPath": "C:\\Users\\CayoHenriqueKume\\source\\repos\\CayoKume\\INTERMEDIATE_desing_patterns\\S.O.L.I.D\\L.S.P [Liskov Substitution Principle]\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

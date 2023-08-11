@@ -9,6 +9,7 @@ namespace O.C.P__Open_Close_Principle_
             /*
                 O Princípio aberto/fechado, dita que uma entidade, que pode ser uma classe, um módulo, ou uma função, deve ser fechada para
                 modificação e aberta para extensão.
+
                 Podemos então trabalhar com heranças, essas heranças poderão adicionar novas funcionalidades e recursos no sistema, porém
                 não podemos alterar o que já foi implementado na classe pai, pois as classes filhas já à implementam.
             */
@@ -40,8 +41,10 @@ namespace O.C.P__Open_Close_Principle_
             #region Exemplo da aplicação do OCP
             /*
                 Para corrigir isso, criamos uma claase pai Vehicle que possui os atributos e métodos que as classe Car e Motorcycle possuem em comum,
-                após isso criamos as classes filhas e extendemos a classe pai para elas. As classes filhas então poderão adicionar novas funcionalidades 
-                e recursos ao sistema porem sem alterar uma a outra e sem alterar a classe pai.
+                após isso criamos as classes filhas e extendemos a classe pai para elas. 
+            
+                As classes filhas então poderão adicionar novas funcionalidades e recursos ao sistema porem sem alterar uma a outra e sem alterar a
+                classe pai.
             */
             if (vehicle.ToUpper() == "CARRO")
             {
